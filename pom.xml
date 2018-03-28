@@ -282,11 +282,11 @@
 	   <scope>test</scope>
 	</dependency>
   </dependencies>
-  
+    https://github.com/SoftwareBuildService/scm-sync-configuration-plugin.git
   <scm>
-    <connection>scm:git:https://github.com/jenkinsci/scm-sync-configuration-plugin.git</connection>
-    <developerConnection>scm:git:https://github.com/jenkinsci/scm-sync-configuration-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/scm-sync-configuration-plugin</url>
+    <connection>scm:git:https://github.com/SoftwareBuildService/scm-sync-configuration-plugin.git</connection>
+    <developerConnection>scm:git:https://github.com/SoftwareBuildService/scm-sync-configuration-plugin.git</developerConnection>
+    <url>https://github.com/SoftwareBuildService/scm-sync-configuration-plugin</url>
     <tag>HEAD</tag>
   </scm>
 </project>
